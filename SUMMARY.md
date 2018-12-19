@@ -35,6 +35,38 @@
     * [13.二维数组的声明与初始化](java-ji-chu/er-java-shu-zu/13.-er-wei-shu-zu-de-sheng-ming-yu-chu-shi-hua.md)
     * [14.二维数组的遍历](java-ji-chu/er-java-shu-zu/14.-er-wei-shu-zu-de-bian-li.md)
     * [15.二维数组的使用](java-ji-chu/er-java-shu-zu/15.-er-wei-shu-zu-de-shi-yong.md)
+  * [三：Java面向对象]
+    * [1.面向对象设计思想]
+    * [2.面向对象的分析与设计]
+    * [3.Java与面向对象]
+    * [4.类中成员变量的定义与意义]
+    * [5.构造方法的定义和调用]
+    * [6.面向对象的封装特性]
+    * [7.局部变量和成员变量的作用域问题]
+    * [8.静态属性、静态方法、静态代码块]
+    * [9.面向对象的继承特性]
+    * [10.继承中构造方法的细节]
+    * [11.面向对象的多态特性]
+    * [12.抽象方法与抽象类]
+    * [13.接口的介绍]
+    * [14.通过内部类制作性能检测工具]
+    * [15.Java的内存分析]
+  * [四：常用基础类]
+    * [1.枚举类型介绍]
+    * [2.枚举的定义]
+    * [3.结合switch-case使用枚举]
+    * [4.String字符串]
+    * [5.字符串缓冲区StringBuffer和StringBuilder]
+    * [6.字符串与缓冲区的区别]
+    * [7.基本类型的包装类型]
+    * [8.Date类的使用]
+    * [9.SimpleDateFormat类的使用]
+    * [10.Math类的使用]
+    * [11.Random类的使用]
+    * [12.Runtime类的使用]
+    * [13.System 类的使用]
+    * [14.Calendar类的使用]
+    * [15.Java8新特性]
 * [Java框架](java-kuang-jia/README.md)
   * [十八：Maven](java-kuang-jia/shi-ba-maven/README.md)
     * [1.Maven环境搭建](java-kuang-jia/shi-ba-maven/1.maven-huan-jing-da-jian.md)
