@@ -4,7 +4,7 @@
 * [更新日志](chapter1.md)
 * [Java基础](javaji-chu.md)
   * [一：Java开发介绍](javaji-chu/yi-ff1a-java-kai-fa-jie-shao.md)
-    * [1.DOS常用命令](javaji-chu/yi-ff1a-java-kai-fa-jie-shao/doschang-yong-ming-ling.md)
+    * [1.DOS常用命令](javaji-chu/yi-ff1a-java-kai-fa-jie-shao/1doschang-yong-ming-ling.md)
     * [2.JVM、JRE、JDK之间的关系](javaji-chu/yi-ff1a-java-kai-fa-jie-shao/2jvmjrejdkzhi-jian-de-guan-xi.md)
     * 3.Java开发环境的搭建：安装JDK，配置环境变量
     * 4.Java入门程序（Java的开发流程）
