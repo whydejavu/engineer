@@ -67,13 +67,13 @@
     * [13.System 类的使用](java-ji-chu/si-chang-yong-ji-chu-lei/13.system-lei-de-shi-yong.md)
     * [14.Calendar类的使用](java-ji-chu/si-chang-yong-ji-chu-lei/14.calendar-lei-de-shi-yong.md)
     * [15.Java8新特性](java-ji-chu/si-chang-yong-ji-chu-lei/15.java8-xin-te-xing.md)
-  * [五：集合
-    * [1.集合的概念和作用
-    * [2.集合和数组的区别
-    * [3.集合框架体系介绍
-    * [4.集合框架之Collection接口
-    * [5.泛型的使用
-    * [6.ArrayList和LinkedList的方法使用
+  * [五：集合]
+    * [1.集合的概念和作用]
+    * [2.集合和数组的区别]
+    * [3.集合框架体系介绍]
+    * [4.集合框架之Collection接口]
+    * [5.泛型的使用]
+    * [6.ArrayList和LinkedList的方法使用]
     * [7.ArrayList和LinkedList各自的工作原理分析原理分析]
     * [8.Vector和Stack使用介绍]
     * [9.使用多种方式遍历集合]
