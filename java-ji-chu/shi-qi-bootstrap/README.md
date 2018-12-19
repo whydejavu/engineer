@@ -1,4 +1,4 @@
-# \[十七：Bootstrap\]
+# 十七：Bootstrap
 
 
 

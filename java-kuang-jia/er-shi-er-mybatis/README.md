@@ -1,4 +1,4 @@
-# \[二十二：MyBatis\]
+# 二十二：MyBatis
 
 
 

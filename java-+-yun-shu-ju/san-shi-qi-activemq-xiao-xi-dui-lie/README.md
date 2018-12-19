@@ -1,4 +1,4 @@
-# \[三十七：ActiveMQ 消息队列\]
+# 三十七：ActiveMQ 消息队列
 
 
 

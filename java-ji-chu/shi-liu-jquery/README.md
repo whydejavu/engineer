@@ -1,4 +1,4 @@
-# \[十六：jQuery\]
+# 十六：jQuery
 
 
 
