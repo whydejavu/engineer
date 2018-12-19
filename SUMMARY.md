@@ -1,22 +1,22 @@
-# Summary
+# Table of contents
 
 * [前言](README.md)
-* [更新日志](chapter1.md)
-* [Java基础](javaji-chu.md)
-  * [一：Java开发介绍](javaji-chu/yi-ff1a-java-kai-fa-jie-shao.md)
-    * [1.DOS常用命令](javaji-chu/yi-ff1a-java-kai-fa-jie-shao/1doschang-yong-ming-ling.md)
-    * [2.JVM、JRE、JDK之间的关系](javaji-chu/yi-ff1a-java-kai-fa-jie-shao/2jvmjrejdkzhi-jian-de-guan-xi.md)
-    * 3.Java开发环境的搭建：安装JDK，配置环境变量
-    * 4.Java入门程序（Java的开发流程）
-    * 5.Java的注释，标识符、标识符的命名规范
-    * 6.Java基本数据类型
-    * 7.变量和常量的定义及初始化
-    * 8.Java的运算符
-    * 9.运算符的优先级
-    * 10.Java分支语句之if...else
-    * 11.循环的嵌套
-    * 12.方法的定义
-    * 13.方法的形参和实参
-    * 14.方法的压栈
-    * 15.方法的递归调用
+* [更新日志](geng-xin-ri-zhi.md)
+* [Java基础](java-ji-chu/README.md)
+  * [一：Java开发介绍](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/README.md)
+    * [1.DOS常用命令](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/1doschang-yong-ming-ling.md)
+    * [2.JVM、JRE、JDK之间的关系](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/2jvmjrejdkzhi-jian-de-guan-xi.md)
+    * [3.Java开发环境的搭建：安装JDK，配置环境变量](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/3.java-kai-fa-huan-jing-de-da-jian-an-zhuang-jdk-pei-zhi-huan-jing-bian-liang.md)
+    * [4.Java入门程序（Java的开发流程）](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/4.java-ru-men-cheng-xu-java-de-kai-fa-liu-cheng.md)
+    * [5.Java的注释，标识符、标识符的命名规范](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/5.java-de-zhu-shi-biao-shi-fu-biao-shi-fu-de-ming-ming-gui-fan.md)
+    * [6.Java基本数据类型](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/6.java-ji-ben-shu-ju-lei-xing.md)
+    * [7.变量和常量的定义及初始化](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/7.-bian-liang-he-chang-liang-de-ding-yi-ji-chu-shi-hua.md)
+    * [8.Java的运算符](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/8.java-de-yun-suan-fu.md)
+    * [9.运算符的优先级](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/9.-yun-suan-fu-de-you-xian-ji.md)
+    * [10.Java分支语句之if...else](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/10.java-fen-zhi-yu-ju-zhi-if...else.md)
+    * [11.循环的嵌套](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/11.-xun-huan-de-qian-tao.md)
+    * [12.方法的定义](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/12.-fang-fa-de-ding-yi.md)
+    * [13.方法的形参和实参](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/13.-fang-fa-de-xing-can-he-shi-can.md)
+    * [14.方法的压栈](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/14.-fang-fa-de-ya-zhan.md)
+    * [15.方法的递归调用](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/15.-fang-fa-de-di-gui-tiao-yong.md)
 
