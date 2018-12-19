@@ -4,3 +4,6 @@
 
 **分享是学习最快的方式！**
 
+# 资源情况
+- [github](https://github.com/whydejavu/engineer)地址
+- [gitbook](https://whydejavu.gitbook.io/learn/)地址
