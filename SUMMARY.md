@@ -197,7 +197,7 @@
     * [15.连接池知识总结](java-ji-chu/shi-er-jdbc-lian-jie-chi/15.-lian-jie-chi-zhi-shi-zong-jie.md)
   * [十三：Servlet](java-ji-chu/shi-san-servlet/README.md)
     * [1.Tomcat与Eclipse的集成开发](java-ji-chu/shi-san-servlet/1.tomcat-yu-eclipse-de-ji-cheng-kai-fa.md)
-    * [\[2.什么是Servlet\]](java-ji-chu/shi-san-servlet/2.-shi-mo-shi-servlet.md)
+    * [2.什么是Servlet](java-ji-chu/shi-san-servlet/2.-shi-mo-shi-servlet.md)
     * [\[3.Servlet的进化史\]](java-ji-chu/shi-san-servlet/3.servlet-de-jin-hua-shi.md)
     * [\[4.Servlet的优化过程\]](java-ji-chu/shi-san-servlet/4.servlet-de-you-hua-guo-cheng.md)
     * [\[5.Servlet中应用的多线程概念\]](java-ji-chu/shi-san-servlet/5.servlet-zhong-ying-yong-de-duo-xian-cheng-gai-nian.md)
