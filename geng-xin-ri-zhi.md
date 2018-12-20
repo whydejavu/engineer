@@ -1,4 +1,7 @@
 # 更新日志
+## 2018年12月20日
+
+1. 更新[JAVA基础>1.DOS常用命令](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/1doschang-yong-ming-ling.md)文档
 
 ## 2018年12月19日
 
