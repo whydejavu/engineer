@@ -1,7 +1,7 @@
 # 更新日志
 
 ## 2018年12月21日
-1. [2.JVM、JRE、JDK之间的关系](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/2jvmjrejdkzhi-jian-de-guan-xi.md)
+1. 更新[JVM、JRE、JDK之间的关系](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/2jvmjrejdkzhi-jian-de-guan-xi.md)
 2. 添加图片存放目录
 
 ## 2018年12月20日
