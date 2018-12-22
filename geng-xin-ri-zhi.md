@@ -1,5 +1,10 @@
 # 更新日志
 
+## 2018年12月22日
+1. [Java开发环境的搭建：安装JDK，配置环境变量](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/3.java-kai-fa-huan-jing-de-da-jian-an-zhuang-jdk-pei-zhi-huan-jing-bian-liang.md)
+2. 在写这个文档的时候不光讲解了搭建，而且做了一个文本编辑器的helloword的例子。
+3. 建立程序文件夹program，以后实验的文件都在这里存放
+
 ## 2018年12月21日
 1. 更新[JVM、JRE、JDK之间的关系](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/2jvmjrejdkzhi-jian-de-guan-xi.md)
 2. 添加图片存放目录

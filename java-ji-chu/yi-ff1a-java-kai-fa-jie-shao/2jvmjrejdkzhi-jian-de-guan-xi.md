@@ -1,5 +1,8 @@
 # 2.JVM、JRE、JDK之间的关系
 
+## 总结
+总体来说，三者的关系是包含关系，JDK是开发工具包，JRE是运行环境，JVM是JAVA的虚拟机(执行环境)，现在使用版本最普遍的是Java8这个版本，对于Java8的支持最终时间2025年3月。
+
 ## 参考资源
 - [百度百科-JDK,JRE,JVM之间的关系](https://jingyan.baidu.com/article/425e69e6077283be15fc16ed.html)
 - [简书](https://www.jianshu.com/p/1aaee6b3bc7a)
