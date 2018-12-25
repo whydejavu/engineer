@@ -1,7 +1,12 @@
 # 更新日志
+
+## 2018年12月25日
+1. 更新了[JAVA基础>6.Java基本数据类型](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/6.java-ji-ben-shu-ju-lei-xing.md)
+2. 仅更新了事实性知识，概念性和程序性的知识还需要理解和整理
+
 ## 2018年12月24日
 1. 更新了[JAVA基础>5.Java的注释，标识符、标识符的命名规范](java-ji-chu/yi-ff1a-java-kai-fa-jie-shao/5.java-de-zhu-shi-biao-shi-fu-biao-shi-fu-de-ming-ming-gui-fan.md)文档
-2. 发现了我写的文档更像是一个记录文档，想起了《学习力》这本书介绍的四类不同的知识：
+2. 发现了我写的文档更像是一个记录文档，想起了《学习力》这本书介绍的四类不同的知识，我现在写的更像是事实性+概念性的知识，我希望在后续的写作中能抽取出元认知知识。
   - 事实性知识
   - 概念性知识
   - 程序性知识
