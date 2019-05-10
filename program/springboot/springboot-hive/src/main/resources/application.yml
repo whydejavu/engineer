@@ -1,0 +1,16 @@
+spring:
+  profiles:
+  #激活开发环境
+    active: pro
+---
+#开发环境配置
+spring:
+  profiles: dev
+server:
+  port: 8380
+---
+#生产环境配置
+spring:
+  profiles: pro
+server:
+  port: 8482
