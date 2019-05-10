@@ -1,7 +1,7 @@
 spring:
   profiles:
   #激活开发环境
-    active: pro
+    active: dev
 ---
 #开发环境配置
 spring:
